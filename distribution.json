@@ -1,0 +1,28 @@
+{
+    "version": "1.0.0",
+    "discord": {
+        "clientId": "385581240906022916",
+        "smallImageText": "아이스온라인",
+        "smallImageKey": "seal-circle"
+    },
+    "rss": "",
+    "servers": [
+        {
+            "id": "IceOnline-1.21.4",
+            "name": "아이스온라인 메인 서버",
+            "description": "아이스온라인 마인크래프트 서버입니다.",
+            "icon": "https://Aisonline.kro.kr/icon.png",
+            "version": "1.0.0",
+            "address": "Aisonline.kro.kr:25565",
+            "minecraftVersion": "1.21.4",
+            "discord": {
+                "shortId": "아이스온라인",
+                "largeImageText": "아이스온라인 메인 서버",
+                "largeImageKey": "server-icon"
+            },
+            "mainServer": true,
+            "autoconnect": true,
+            "modules": []
+        }
+    ]
+}
