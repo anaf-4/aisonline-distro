@@ -28,8 +28,8 @@
                     "name": "Fabric Loader",
                     "type": "FabricLoader",
                     "artifact": {
-                        "size": 1,
-                        "MD5": "placeholder",
+                        "size": 1387408,
+                        "MD5": "9db84b45c9134ca3db98e8d96abf3623",
                         "url": "https://maven.fabricmc.net/net/fabricmc/fabric-loader/0.16.10/fabric-loader-0.16.10.jar"
                     }
                 }
