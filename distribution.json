@@ -11,7 +11,7 @@
             "id": "IceOnline-1.21.4",
             "name": "아이스온라인 메인 서버",
             "description": "아이스온라인 마인크래프트 서버입니다.",
-            "icon": "https://AisOnline.kro.kr/icon.png",
+            "icon": "https://anaf-4.github.io/aisonline-distro/icon.png",
             "version": "1.0.0",
             "address": "AisOnline.kro.kr:25565",
             "minecraftVersion": "1.21.4",
@@ -26,12 +26,24 @@
                 {
                     "id": "net.fabricmc:fabric-loader:0.16.10",
                     "name": "Fabric Loader",
-                    "type": "Library",
+                    "type": "Fabric",
                     "artifact": {
                         "size": 1387408,
                         "MD5": "239d59118dec4324672b3d9e9d75efef",
                         "url": "https://maven.fabricmc.net/net/fabricmc/fabric-loader/0.16.10/fabric-loader-0.16.10.jar"
-                    }
+                    },
+                    "subModules": [
+                        {
+                            "id": "net.fabricmc:fabric-loader:0.16.10-version-manifest",
+                            "name": "Fabric Loader Version Manifest",
+                            "type": "VersionManifest",
+                            "artifact": {
+                                "size": 2859,
+                                "MD5": "f1f8f7438a6c16bcbbac81560c50f7b6",
+                                "url": "https://anaf-4.github.io/aisonline-distro/fabric-version-manifest.json"
+                            }
+                        }
+                    ]
                 }
             ]
         }
