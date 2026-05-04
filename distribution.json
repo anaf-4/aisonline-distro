@@ -26,10 +26,10 @@
                 {
                     "id": "net.fabricmc:fabric-loader:0.16.10",
                     "name": "Fabric Loader",
-                    "type": "FabricLoader",
+                    "type": "Library",
                     "artifact": {
                         "size": 1387408,
-                        "MD5": "9db84b45c9134ca3db98e8d96abf3623",
+                        "MD5": "239d59118dec4324672b3d9e9d75efef",
                         "url": "https://maven.fabricmc.net/net/fabricmc/fabric-loader/0.16.10/fabric-loader-0.16.10.jar"
                     }
                 }
